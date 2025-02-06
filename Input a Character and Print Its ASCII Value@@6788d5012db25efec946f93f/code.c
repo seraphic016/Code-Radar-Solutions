@@ -1,8 +1,7 @@
 #include <stdio.h>
-char* welcom() {
-     return "Hello Radar"
-}
-int main() {
-    printf("%s", welcome());
+void main() {
+    char ch;
+    scanf("%c", &ch);
+    printf("ASCII Value: %d", ch);
     
 }
