@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 void main() {
     float a,b product;
     scanf("%f %f" , &a, &b);
